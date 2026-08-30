@@ -45,8 +45,10 @@ categories:
     sources:
       - name: "Krebs on Security"
         feed_url: "https://krebsonsecurity.com/feed/"
-      - name: "CISA Advisories"
-        feed_url: "https://www.cisa.gov/cybersecurity-advisories/all.xml"
+      - name: "The Hacker News"
+        feed_url: "https://feeds.feedburner.com/TheHackersNews"
+      - name: "CISA Cybersecurity Advisories"
+        feed_url: "https://www.cisa.gov/uscert/ncas/alerts.xml"
       - name: "Project Zero"
         feed_url: "https://googleprojectzero.blogspot.com/feeds/posts/default"
       - name: "Google Security Blog"
