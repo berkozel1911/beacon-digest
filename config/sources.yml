@@ -63,3 +63,9 @@ categories:
         feed_url: "https://deepmind.google/blog/rss.xml"
       - name: "Hugging Face Blog"
         feed_url: "https://huggingface.co/blog/feed.xml"
+
+  - key: general_tech
+    display_name: "General Tech"
+    sources:
+      - name: "Hacker News (Top 20)"
+        feed_url: "https://hnrss.org/frontpage?count=20"
