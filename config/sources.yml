@@ -34,35 +34,11 @@ categories:
       - name: "SavvyNik"
         feed_url: "https://www.youtube.com/feeds/videos.xml?channel_id=UC3yaWWA9FF9OBog5U9ml68A"
 
-  - key: devops
-    display_name: "DevOps"
-    sources:
-      - name: "CNCF Blog"
-        feed_url: "https://www.cncf.io/feed/"
-      - name: "Kubernetes Blog"
-        feed_url: "https://kubernetes.io/feed.xml"
-      - name: "HashiCorp Blog"
-        feed_url: "https://www.hashicorp.com/blog/feed.xml"
-      - name: "GitHub Blog"
-        feed_url: "https://github.blog/feed/"
-      - name: "The New Stack"
-        feed_url: "https://thenewstack.io/feed/"
-
   - key: security
     display_name: "Security"
     sources:
       - name: "The Hacker News"
         feed_url: "https://feeds.feedburner.com/TheHackersNews"
-
-  - key: ai
-    display_name: "AI"
-    sources:
-      - name: "OpenAI Blog"
-        feed_url: "https://openai.com/blog/rss.xml"
-      - name: "Google DeepMind Blog"
-        feed_url: "https://deepmind.google/blog/rss.xml"
-      - name: "Hugging Face Blog"
-        feed_url: "https://huggingface.co/blog/feed.xml"
 
   - key: general_tech
     display_name: "General Tech"
